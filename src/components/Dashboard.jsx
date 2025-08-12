@@ -401,12 +401,12 @@ const Dashboard = ({ user }) => {
                           <Car size={24} className="text-gray-700" />
                         </div>
                       </div>
-                      <div className="mt-4 pt-3 border-t border-gray-200">
+                      {/* <div className="mt-4 pt-3 border-t border-gray-200">
                         <div className="flex items-center text-xs text-gray-500">
                           <TrendingUp size={14} className="mr-1 text-green-500" />
                           <span>12% increase this month</span>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
 
@@ -429,12 +429,12 @@ const Dashboard = ({ user }) => {
                           <UsersRound size={24} className="text-gray-700" />
                         </div>
                       </div>
-                      <div className="mt-4 pt-3 border-t border-gray-200">
+                      {/* <div className="mt-4 pt-3 border-t border-gray-200">
                         <div className="flex items-center text-xs text-gray-500">
                           <TrendingUp size={14} className="mr-1 text-green-500" />
                           <span>5% increase this month</span>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
 
@@ -457,12 +457,12 @@ const Dashboard = ({ user }) => {
                           <User size={24} className="text-gray-700" />
                         </div>
                       </div>
-                      <div className="mt-4 pt-3 border-t border-gray-200">
+                      {/* <div className="mt-4 pt-3 border-t border-gray-200">
                         <div className="flex items-center text-xs text-gray-500">
                           <TrendingUp size={14} className="mr-1 text-green-500" />
                           <span>8% increase this month</span>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   
@@ -485,12 +485,12 @@ const Dashboard = ({ user }) => {
                           <MessageSquare size={24} className="text-gray-700" />
                         </div>
                       </div>
-                      <div className="mt-4 pt-3 border-t border-gray-200">
+                      {/* <div className="mt-4 pt-3 border-t border-gray-200">
                         <div className="flex items-center text-xs text-gray-500">
                           <TrendingUp size={14} className="mr-1 text-green-500" />
                           <span>10% increase this month</span>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
