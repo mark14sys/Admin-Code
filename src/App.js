@@ -73,6 +73,19 @@ function App() {
         </Routes>
       </div>
     </Router>
+  // <Router>
+  //   <div className="min-h-screen bg-gray-100">
+  //     <Routes>
+  //       <Route path="/login" element={<Login auth={auth} />} />
+  //       <Route path="/" element={<Dashboard />} />
+  //       <Route path="/owners" element={<Owners db={db} />} />
+  //       <Route path="/renters" element={<Renters db={db} />} />
+  //       <Route path="/reports" element={<RentalReports db={db} />} />
+  //       <Route path="/settings" element={<Settings auth={auth} />} />
+  //       <Route path="/profile" element={<AdminProfile auth={auth} db={db} />} />
+  //     </Routes>
+  //   </div>
+  // </Router>
   );
 }
 
